@@ -54,12 +54,12 @@ The enhancement pipeline consists of the following steps:
 
 low-light-image-enhancement-retinex
 
-├── low_light_enhancement.ipynb
-├── README.md
-├── requirements.txt
-├── input.jpg
-├── output.jpg
-└── paper.pdf
+low_light_enhancement.ipynb
+README.md
+requirements.txt
+input.jpg
+output.jpg
+paper.pdf
 
 
 ## How to Run
